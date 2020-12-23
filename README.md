@@ -24,5 +24,3 @@ O repositório está dividido em pastas separadas pelas unidades do Curso.
 # 4. Licença
 
 The [MIT License](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) (MIT)
-
-Copyright :copyright: 2020 - javascript
