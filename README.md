@@ -1,4 +1,4 @@
-# 1. javaScript
+# 1. JavaScript
 
 ## 1.1 Descrição
 
@@ -16,11 +16,14 @@ O repositório está dividido em pastas separadas pelas unidades do Curso.
 
 # 2. Como executar e testar os codigos
 
-
+Para os códigos que envolvem apenas JS basta executar no vscode pelo terminal.
+Para os códigos que envolvem HTML e CSS podem ser usadas extensões no vscode como por exemplo, o LiveServer, ou simplesmente abrir a pagina HTML no navegador.
 # 3. Linguagens e ferramentas utilizadas
 
 * JavaScript
 * VS Code
+* Node
+
 # 4. Licença
 
 The [MIT License](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) (MIT)
